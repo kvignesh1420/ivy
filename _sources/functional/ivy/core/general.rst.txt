@@ -18,11 +18,13 @@ General
    general/copy_array.rst
    general/array_equal.rst
    general/arrays_equal.rst
+   general/all_equal.rst
    general/equal.rst
    general/to_numpy.rst
    general/to_scalar.rst
    general/to_list.rst
    general/shape.rst
+   general/shape_to_tuple.rst
    general/get_num_dims.rst
    general/minimum.rst
    general/maximum.rst
@@ -37,7 +39,6 @@ General
    general/argmax.rst
    general/argmin.rst
    general/argsort.rst
-   general/cast.rst
    general/arange.rst
    general/linspace.rst
    general/logspace.rst
@@ -86,14 +87,6 @@ General
    general/try_else_none.rst
    general/arg_names.rst
    general/match_kwargs.rst
-   general/dtype.rst
-   general/is_int_dtype.rst
-   general/is_float_dtype.rst
-   general/valid_dtype.rst
-   general/invalid_dtype.rst
-   general/convert_dtype.rst
-   general/dtype_to_str.rst
-   general/dtype_from_str.rst
    general/cache_fn.rst
    general/current_framework_str.rst
    general/einops_rearrange.rst
